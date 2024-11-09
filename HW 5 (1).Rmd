@@ -1,0 +1,13 @@
+---
+title: "HW 5"
+author: "Student Name"
+date: "12/29/2023"
+output: 
+  html_document:
+    number_sections: true
+---
+
+This homework is meant to give you practice in creating and defending a position with both statistical and philosophical evidence.  We have now extensively talked about the COMPAS ^[https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis] data set, the flaws in applying it but also its potential upside if its shortcomings can be overlooked.  We have also spent time in class verbally assessing positions both for an against applying this data set in real life.  In no more than two pages ^[knit to a pdf to ensure page count] take the persona of a statistical consultant advising a judge as to whether they should include the results of the COMPAS algorithm in their decision making process for granting parole.  First clearly articulate your position (whether the algorithm should be used or not) and then defend said position using both statistical and philosophical evidence.  Your paper will be grade both on the merits of its persuasive appeal but also the applicability of the statistical and philosohpical evidence cited.  
+
+
+*STUDENT RESPONSE*
